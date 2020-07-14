@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+.menu {
+  font-family: cursive;
+  font-size: 50px; color: white;
+  margin-top: 10px;
+}
+.chicken{
+  font-weight: bolder;
+  font-size: 30px; color: #343a40;
+  letter-spacing: 7px; line-height: 50px;
+}
+#beef{
+  background-color: #6c757d;
+  position: relative;
+  border: 2px solid black;
+  height: 1000px;
+  padding: 10px;
+  color: white; overflow: hidden;
+}
+.con{
+  font-size: 21px;
+
+}
+body > .row{
+  text-align: justify;
+  margin: 4%;
+}
+body{
+  background-image: url("https://images.unsplash.com/flagged/photo-1556742524-750f2ab99913?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
+
+}
+a > span{
+  color: black;
+}

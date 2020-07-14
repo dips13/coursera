@@ -38,6 +38,6 @@ body{
 a > span{
   color: black;
 }
-hr {
+hr.ben {
   border: 2px solid white;
 }

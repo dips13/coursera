@@ -38,3 +38,6 @@ body{
 a > span{
   color: black;
 }
+hr {
+  border: 2px solid white;
+}
